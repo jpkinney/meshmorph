@@ -1,0 +1,5 @@
+*.o
+meshmorph
+doc/html/
+doc/latex/
+.deps/
